@@ -49,18 +49,19 @@ body {
   }
   nav {
     border: 20px;
-    border-color: #777;
+    border-color: #010101;
     position:sticky;
     top:0px;
     left:0px;
-    background:rgb(136, 210, 136);
+    background:rgb(246, 143, 143);
     opacity: 0.5;
+    font-style: normal;
     
 
 
   }
   li {
-    color: #777;
+    color: #000000;
     list-style: none;
     margin-left: -37px;
     margin-right: 0px;
